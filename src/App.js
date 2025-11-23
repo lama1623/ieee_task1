@@ -28,9 +28,9 @@ export default function App() {
     <div className="App">
 
       <div className="app-header">
-     <img src="/ieee_img.jpg" alt="IEEE Logo" />
+       <img src={`${process.env.PUBLIC_URL}/ieee_img.jpg`} alt="IEEE Logo" /> 
       </div>
-
+    
       <h1 className="main-title">Department of Technology</h1>
       <h2 className="subtitle">Technical Department Tasks:</h2>
       <div className="container">
