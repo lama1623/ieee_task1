@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lama1623/ieee_task1/static/css/main.e1e54631.css",
+    "main.js": "/lama1623/ieee_task1/static/js/main.f666f60e.js",
+    "static/js/453.e27f9933.chunk.js": "/lama1623/ieee_task1/static/js/453.e27f9933.chunk.js",
+    "index.html": "/lama1623/ieee_task1/index.html",
+    "main.e1e54631.css.map": "/lama1623/ieee_task1/static/css/main.e1e54631.css.map",
+    "main.f666f60e.js.map": "/lama1623/ieee_task1/static/js/main.f666f60e.js.map",
+    "453.e27f9933.chunk.js.map": "/lama1623/ieee_task1/static/js/453.e27f9933.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1e54631.css",
+    "static/js/main.f666f60e.js"
+  ]
+}
